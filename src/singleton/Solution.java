@@ -2,7 +2,7 @@ package singleton;
 
 import java.util.concurrent.*;
 
-public class main {
+public class Solution {
     public static void main(String[] args) {
 
             System.out.println(EnumSingleton.INSTANCE.getClass());

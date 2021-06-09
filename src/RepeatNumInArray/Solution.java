@@ -2,7 +2,7 @@ package RepeatNumInArray;
 
 import java.util.Objects;
 
-public class Test {
+public class Solution {
     public static void main(String[] args) {
 
         int[] nums = {4,3,1,0,2,5,3};

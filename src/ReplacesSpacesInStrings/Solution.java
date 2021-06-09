@@ -2,7 +2,7 @@ package ReplacesSpacesInStrings;
 
 import java.util.Objects;
 
-public class Test {
+public class Solution {
     private static String string = "hello new world";
 
     //计算字符串中空格个数

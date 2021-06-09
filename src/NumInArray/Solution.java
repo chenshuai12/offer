@@ -2,11 +2,11 @@ package NumInArray;
 
 import java.util.Objects;
 
-public class Test {
+public class Solution {
     public static void main(String[] args) {
         int[][] array = {{1,2,3,4,5},{2,3,4,5,6},{3,4,5,6,7},{4,5,6,7,8},{5,6,7,8,9}};
         int target = 10;
-        Test test = new Test();
+        Solution test = new Solution();
         boolean result = test.find(array,target);
         System.out.println(result);
 
